@@ -1,0 +1,4 @@
+
+
+基于RobotCA 开发，ros android 管理项目
+把所需的所有jar包 下载到本地配置，告别转不停
